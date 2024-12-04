@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yangz\\OneDrive\\Desktop\\!HW6\\10.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A870342A-0BA5-4266-9E03-E60041FF0D05}|10.3\\10.3.vcxproj|C:\\Users\\yangz\\OneDrive\\Desktop\\!HW6\\10.3\\source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A870342A-0BA5-4266-9E03-E60041FF0D05}|10.3\\10.3.vcxproj|solutionrelative:source\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\yangz\\OneDrive\\Desktop\\!HW6\\10.3\\source\\main.c",
+              "RelativeDocumentMoniker": "source\\main.c",
+              "ToolTip": "C:\\Users\\yangz\\OneDrive\\Desktop\\!HW6\\10.3\\source\\main.c",
+              "RelativeToolTip": "source\\main.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-29T16:19:25.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
